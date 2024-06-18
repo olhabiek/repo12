@@ -1,0 +1,220 @@
+    1  cat id_rsa pub
+    2  cd ~/.ssh
+    3  ls -al
+    4  cat id_rsa.pub
+    5  git config --global user.name olhabiekhtir
+    6  git config --global user.email olha.biekhtir@gmail.com
+    7  git config --global -l
+    8  ssh -T git@github.com
+    9  cd /c/GIT
+   10  ls -al
+   11  ls -al
+   12  git clone git@github.com:olhabiekhtir/290124-wdm.git
+   13  ls -al
+   14  cd 290124-wdm/
+   15  nano song.txt
+   16  ls -al
+   17  git status
+   18  git add song.txt
+   19  git status
+   20  git commit -m "Add new file song.txt"
+   21  git log
+   22  git push
+   23  cd ~/.ssh
+   24  ls -al
+   25  cat id_rsa.pub
+   26  git config --global user.name olhabiekhtir
+   27  git config --global -l
+   28  -T git@github.com
+   29  ssh -T git@github.com
+   30  cd
+   31  mkdir -p :\Users\olhab\OneDrive\Desktop\Linux - домашние работы\GIT
+   32  mkdir -p :\Users\olhab\OneDrive\Desktop\GIT
+   33  C:\GIT git clone git@github.com:olhabiekhtir/290124-wdm.git
+   34  ~C:\GIT git clone git@github.com:olhabiekhtir/290124-wdm.git
+   35   ~\GIT git clone git@github.com:olhabiekhtir/290124-wdm.git
+   36  cd
+   37  ~/GIT
+   38  ~\c\GIT
+   39  cd GIT
+   40  ls -al
+   41  cd /c/GIT
+   42  git clone git@github.com:olhabiekhtir/290124-wdm.git
+   43  ls -al
+   44  cd 290124-wdm/
+   45  ls -al
+   46  nano song.txt
+   47  ls -al
+   48  git status
+   49  git add song.txt
+   50  git status
+   51  git commit -m "Add new file song.txt"
+   52  git config --global user.email "olha.biekhtir@gmail.com"
+   53  git log
+   54  git push
+   55  cd /c/GIT
+   56  ls -al
+   57  git clone git@github.com:olhabiekhtir/git_intro.git
+   58  ls -al
+   59  git init
+   60  git add e71553417d6a37aed9aeb046d6fc7492.jpg
+   61  git commit -m "Addet photo"
+   62  git branch -M main
+   63  git remote add origin git@github.com:git init
+   64  git add e71553417d6a37aed9aeb046d6fc7492.jpg
+   65  git commit -m "Added photo"
+   66  git branch -M main
+   67  git remote add origin git@github.com:olhabiekhtir/git_intro.git
+   68  git push -u origin main
+   69  git init
+   70  git add 1.jpg
+   71  cd
+   72  cd /c/GIT/git_intro
+   73  git init
+   74  git add 1.jpg
+   75  git commit -m "Added photo"
+   76  git branch -M main
+   77  git remote add origin git@github.com:olhabiekhtir/git_intro.git
+   78  git push -u origin main
+   79  git -h
+   80  git -v
+   81  git config --global user.name "Olha Biekhtir"
+   82   git config --global user.name
+   83   git config --global user.name
+   84   git config --global user.email olha.biekhtir@gmail.com
+   85  git config --global user.email
+   86  lorem25
+   87  fdfdg gfghfhgf hhghgh ghgjhghgfdfdg gfghfhgf hhghgh ghgjhghg
+   88  fdfdg gfghfhgf hhghgh ghgjhghg
+   89  For some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+   90  git config --global user.name "Olha"
+   91  git config --global user.email "olha.biekhtir@gmail.com"
+   92  git config --global user.name "olhabiek"
+   93  git init
+   94  git clone https://github.com/olhabiek/olhabiek.git
+   95  cd olhabiek
+   96  ls
+   97  touch file1
+   98  git add file1
+   99  git commit -m "adding files"
+  100  git branch -M main
+  101  git remote add origin github.com:olhabiek/olhabiek.git
+  102  git push -u origin main
+  103  pwd
+  104  mkdir first_repo
+  105  cd first_repo
+  106  git init
+  107  git config --global user.name "olhabiek"
+  108  git config --global user.email "olha.biekhtir@gmail.com"
+  109  git config --list --global
+  110  echo "# test" >> README.md
+  111  git status
+  112  git add README.md
+  113  git commit -m "first commit"
+  114  git branch -M main
+  115  eval `ssh-agent -s`
+  116  ssh-add /home/olha/itch
+  117  ssh-add c:/home/olha/itch
+  118  ssh-add c:/users/olha/itch
+  119  ssh-add /home/olha/itch
+  120  ~/.ssh
+  121  ssh-add /c/Users/olhab/.ssh/id_rsa.pub
+  122  ssh-add /c/Users/olhab/.ssh/id_rsa
+  123  ls ~/.ssh
+  124  ssh-add ~/.ssh/id_rsa.pub
+  125  git remote add origin git@github.com:olhabiek/first_repo.git
+  126  git push -u origin main
+  127  git push -u origin main -vvv
+  128  pwd
+  129  git config --global user.name "olhabiek"
+  130  git config --global user.email "olha.biekhtir@gmail.com"
+  131  git config --list --global
+  132  git commit -m "first commit"
+  133  eval `ssh-agent -s`
+  134  ssh-add /c/Users/olhab/.ssh/id_rsa.pub
+  135  ssh-add /c/Users/olhab/.ssh/id_rsa
+  136  git remote add origin git@github.com:olhabiek/first_repo.git
+  137  git push -u origin main -vvv
+  138  git config --global user.name "olhabiek"
+  139  git config --global user.email "olha.biekhtir@gmail.com"
+  140  git init
+  141  echo "# test" >> README.md
+  142  git status
+  143  git add README.md
+  144  git commit -m "first commit"
+  145  git branch -M main
+  146  git remote add origin git@github.com:olhabiek/olhabiek.git
+  147  git push -u origin main
+  148  git log
+  149  cd
+  150  mkdir ~/git-branch
+  151  mkdir c:/GIT/git-branch
+  152  init c:/GIT/git-branch
+  153  cd :c/GIT
+  154  cd c:/GIT
+  155  init git-branch
+  156  cd c:/GIT/git-branch
+  157  init git-branch
+  158  git init git-branch
+  159  cd c:/GIT
+  160  git init git-branch
+  161  git remote add origin https://github.com/olhabiek/git-branch.git
+  162  cd c:/GIT/git-branch
+  163  git remote add origin https://github.com/olhabiek/git-branch.git
+  164  git checkout -b gitignore
+  165  curl -o https://github.com/aliaskov/bashscripts/blob/master/.gitignore
+  166  ls
+  167  ls -la
+  168  curl -o https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  169  curl -o https://github.com/aliaskov/bashscripts/blob/8627aa2487db1e9b4c5c4ffc20e15d0e3deb48a0/.gitignore
+  170  ls -la
+  171  curl -o https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  172  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  173  ls -la
+  174  git add .gitignore
+  175  git commit -m "Add .gitignore file"
+  176  git remote add origin https://github.com/olhabiek/git-branch.git
+  177  git push -u origin gitignore
+  178  git push -u origin gitignore
+  179  cd
+  180  mkdir c:/GIT/repo2
+  181  cd c:/GIT/repo2
+  182  git init
+  183  git remote add origin https://github.com/olhabiek/repo2.git
+  184  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/1000HelloWorld.sh
+  185  git branch -M main
+  186  git add 100HelloWorld.sh
+  187  git add 1000HelloWorld.sh
+  188  git commit -m "Add 1000HelloWorld.sh file"
+  189  git push -u origin main
+  190  git checkout -b file-delete
+  191  rm 1000HelloWorld.sh
+  192  git add 1000HelloWorld.sh
+  193  git commit -m "Delete 1000HelloWorld.sh file"
+  194  git üush -u origin file-delete
+  195  git push -u origin file-delete
+  196  git log
+  197  ssh ec2-user@linux.itcareerhub.de
+  198  ssh ec2-user@linux.itcareerhub.de
+  199  cd ~
+  200  rm -rf .git
+  201  git clone https://github.com/olhabiek/repo12.git
+  202  cd repo12/
+  203  git status
+  204  git log
+  205  git checkout -b feature
+  206  ls
+  207  echo "Project 12" > README.md
+  208  echo "*.exe" > .gitignore
+  209  ls -la
+  210  git add README.md
+  211  git add .gitignore
+  212  git status
+  213  git commit -m "add files"
+  214  git push -u origin feature
+  215  git commit --amend
+  216  git push --force origin feature
+  217  git checkout main
+  218  git merge feature
+  219  git push -u origin main
+  220  history > history.txt
